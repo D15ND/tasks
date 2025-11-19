@@ -1,4 +1,4 @@
-# [Stage#2.](../../) Classes & Prototypes 🌟
+# [Stage#1.](../../) Classes & Prototypes 🌟
 
 ## Module Overview 📚
 
